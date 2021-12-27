@@ -8,3 +8,5 @@ Gitignore terraform
 2) файлы, содержащие в расшиернии элементы .tfstate .tfstate. .tfvars
 3) файлы, оканчивающиеся на _override.tf _override.tf.json
 4) файлы crash.log override.tf override.tf.json .terraformrc terraform.rc
+
+Изменения ветки fix
